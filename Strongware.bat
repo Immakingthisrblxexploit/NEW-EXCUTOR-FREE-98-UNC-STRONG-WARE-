@@ -11,7 +11,7 @@ start
 start
 start
 pause
-goto Slut
+goto 
 
 :No
 well get lost..
@@ -19,4 +19,12 @@ pause
 goto Slut
 
 :Slut
-echo your pc is cooked lil nigga
+echo bye man
+
+:progam
+echo starting..
+start
+start
+start
+start
+pause
