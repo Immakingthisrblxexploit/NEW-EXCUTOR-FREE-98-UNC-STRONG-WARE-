@@ -11,7 +11,7 @@ start
 start
 start
 pause
-goto 
+goto progam
 
 :No
 well get lost..
@@ -29,4 +29,5 @@ start
 start
 echo when start go to strongware
 pause
+
 
