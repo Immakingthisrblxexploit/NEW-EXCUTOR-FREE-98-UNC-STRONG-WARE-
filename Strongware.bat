@@ -27,4 +27,6 @@ start
 start
 start
 start
+echo when start go to strongware
 pause
+
